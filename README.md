@@ -5,7 +5,7 @@
 ## Test Example
 
 ```python
-    from aliapy import Alipay
+    from alipay import Alipay
     import uuid
 
     private_key="""-----BEGIN RSA PRIVATE KEY-----
